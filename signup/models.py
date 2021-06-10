@@ -19,3 +19,9 @@ class Registration(models.Model):
     price = models.CharField(max_length=30)
     stock = models.CharField(max_length=30)
     image_url = models.CharField(max_length=30)
+
+class Test(models.Model):
+    name = models.CharField(max_length=30)
+    price = models.CharField(max_length=30)
+    stock = models.CharField(max_length=30)
+    image_url = models.CharField(max_length=30)

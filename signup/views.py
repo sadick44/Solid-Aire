@@ -60,4 +60,11 @@ def logoutUser(request):
     logout(request)
     return redirect('login')
 
-#Lolipop@1234
+
+def taches(request):
+    taches = Registration.objects.all()
+    return render(request, 'taches.html', {'taches': taches})
+
+
+def services(request):
+    pass

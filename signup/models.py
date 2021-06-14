@@ -18,4 +18,4 @@ class Registration(models.Model):
     name = models.CharField(max_length=30)
     price = models.CharField(max_length=30)
     stock = models.CharField(max_length=30)
-    image_url = models.CharField(max_length=30)
+    image_url = models.CharField(max_length=2020)

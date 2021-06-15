@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9f058c-0784-402d-ae28-01be2e98d100" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solid_aire/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/solid_aire/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_aire/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/solid_aire/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -32,11 +34,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623316506606</updated>
-      <workItem from="1623773579921" duration="1104000" />
+      <workItem from="1623773579921" duration="3499000" />
+      <workItem from="1623777325698" duration="795000" />
     </task>
+    <task id="LOCAL-00001" summary="test git update">
+      <created>1623774908423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623774908423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test git update" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git update" />
   </component>
 </project>

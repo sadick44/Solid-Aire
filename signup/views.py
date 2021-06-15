@@ -68,3 +68,4 @@ def taches(request):
 
 def services(request):
     pass
+

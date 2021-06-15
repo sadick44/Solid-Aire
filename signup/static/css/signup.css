@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+
+body{
+    background:url('../images/bg8.jpg') no-repeat;
+    font-family: 'Poppins', sans-serif;
+     background-attachment: fixed;
+}
+
+.row{
+    margin-top:7%;
+}
+
+.col-md-7{
+    ox-shadow:10px 5px 5px 10px cadetblue;
+}
+
+h1, p{
+    color:#fff;
+}
